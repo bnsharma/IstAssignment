@@ -1,0 +1,25 @@
+body{background:yellow ; margin: 0px;padding: 0px;}
+a{color:white}
+header{background: rgb(5, 5, 231); height: 50px;}
+
+#left-nav{
+  float: left;
+}
+ul li{list-style-type: none; }
+ #right-nav{
+  float:right; font-variant: small-caps;
+  font-size: large;
+}
+#right-nav li{
+  display: inline-block;
+  margin: 10px;
+}
+div{text-align: center;} 
+footer{clear: both;
+        background: violet;
+        margin-top: 40px;
+        text-align: center;
+        padding: 10px;
+        color: white;
+
+}
